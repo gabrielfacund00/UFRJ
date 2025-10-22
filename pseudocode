@@ -1,0 +1,28 @@
+#include <iostream>
+#include <string>
+
+struct Dados{
+    float temp;
+    char* time;
+    
+    Temp_time 
+};
+
+cin dados.x
+na arvore (insert) == n1 = dados->temp
+ordenação por temp 
+
+
+
+
+
+int main(){
+    cin< 
+    
+
+
+
+
+
+    return 0; 
+}
